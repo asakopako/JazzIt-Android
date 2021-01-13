@@ -41,11 +41,8 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.5'
     implementation 'com.squareup.okhttp3:logging-interceptor:4.9.0'
 
-
     implementation 'com.jakewharton:butterknife:10.2.1'                 // http://jakewharton.github.io/butterknife/
     annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'   // http://jakewharton.github.io/butterknife/
-
-    implementation 'org.mindrot:jbcrypt:0.4'
 
     compileOnly 'org.projectlombok:lombok:1.18.12'                       // para no poner getter y setters
     annotationProcessor 'org.projectlombok:lombok:1.18.12'               // para no poner getter y setters

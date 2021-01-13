@@ -2,16 +2,20 @@
     <string name="app_name">JazzIt</string>
     <string name="login">LOGIN</string>
     <string name="email">EMAIL</string>
-    <string name="birthday">BIRTHDAY yyyy-mm-dd (OPTIONAL)</string>
+    <string name="name">NAME (OPTIONAL)</string>
     <string name="password">PASSWORD</string>
     <string name="repeatPassword">REPEAT PASSWORD</string>
     <string name="submit">SUBMIT</string>
     <string name="register">REGISTER</string>
     <string name="back">BACK</string>
     <string name="passwordError">Passwords don\'t match</string>
-    <string name="dateError">Invalid date format</string>
     <string name="registerOk">Successful registration</string>
     <string name="registerError">Invalid formatted values entered or email already exists</string>
     <string name="connectionError">Failed to connect to server</string>
     <string name="loginError">Wrong email or password</string>
+    <string name="authError">Authorization error</string>
+    <string name="contactOk">Contact added</string>
+    <string name="contactError">You must select a contact</string>
+    <string name="contactAddedError">Contact already added</string>
+    <string name="userError">User doesn\'t exist</string>
 </resources>
